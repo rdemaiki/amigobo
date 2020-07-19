@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/amigobo/static/css/main.45aeab73.chunk.css",
+    "main.js": "/amigobo/static/js/main.c95067a3.chunk.js",
+    "main.js.map": "/amigobo/static/js/main.c95067a3.chunk.js.map",
+    "runtime-main.js": "/amigobo/static/js/runtime-main.16b64c54.js",
+    "runtime-main.js.map": "/amigobo/static/js/runtime-main.16b64c54.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/amigobo/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0e2e6646.chunk.js": "/amigobo/static/js/2.0e2e6646.chunk.js",
+    "static/js/2.0e2e6646.chunk.js.map": "/amigobo/static/js/2.0e2e6646.chunk.js.map",
+    "index.html": "/amigobo/index.html",
+    "precache-manifest.ba2b0557e81a0dee6f57b94de42e0947.js": "/amigobo/precache-manifest.ba2b0557e81a0dee6f57b94de42e0947.js",
+    "service-worker.js": "/amigobo/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/amigobo/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.45aeab73.chunk.css.map": "/amigobo/static/css/main.45aeab73.chunk.css.map",
+    "static/js/2.0e2e6646.chunk.js.LICENSE.txt": "/amigobo/static/js/2.0e2e6646.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/amigobo/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16b64c54.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0e2e6646.chunk.js",
+    "static/css/main.45aeab73.chunk.css",
+    "static/js/main.c95067a3.chunk.js"
+  ]
+}
